@@ -30,16 +30,18 @@ banco_orion/
 
 ## Cómo ejecutar
 
-Desde la carpeta raíz del proyecto, ejecuta:
+Desde la carpeta raíz del proyecto, inicia la interfaz gráfica:
 
 ```bash
 python sistema_bancario/menu_principal.py
 ```
 
+La aplicación utiliza Tkinter, incluido en la mayoría de las instalaciones de Python.
+
 ## Requisitos
 
 - Python 3.x
-- Consola o terminal para interactuar con el menú
+- Tkinter para la interfaz gráfica
 
 ## Fases del proyecto
 
